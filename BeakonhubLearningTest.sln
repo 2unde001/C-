@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeakonhubLearningTest", "BeakonhubLearningTest\BeakonhubLearningTest.csproj", "{E12A5B0E-3299-400E-A9FA-51E51F41A3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeakonhubLearning", "BeakonhubLearning\BeakonhubLearning.csproj", "{36067999-9243-4D70-8F4A-61F483464C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12A5B0E-3299-400E-A9FA-51E51F41A3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12A5B0E-3299-400E-A9FA-51E51F41A3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12A5B0E-3299-400E-A9FA-51E51F41A3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12A5B0E-3299-400E-A9FA-51E51F41A3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36067999-9243-4D70-8F4A-61F483464C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36067999-9243-4D70-8F4A-61F483464C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36067999-9243-4D70-8F4A-61F483464C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36067999-9243-4D70-8F4A-61F483464C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106524A5-359A-42FF-8B5F-51F91E5C3622}
+	EndGlobalSection
+EndGlobal
